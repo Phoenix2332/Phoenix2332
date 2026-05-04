@@ -41,11 +41,11 @@ Apasionado de la música, jugar a videojuegos, leer novelas/manga, ver series/pe
 <p>
     <img src="./images/octocat.png" width=20%/>
     <a href="https://www.linkedin.com/in/alvaroruizvelazquez/" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+        <img loading="lazy" src="./images/logo_15713416.png" 
     height="40">
     </a>&nbsp;
     <a href="https://www.instagram.com/23phantom_/" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" 
+        <img loading="lazy" src="./images/instagram_15713420.png" 
     height="40">
 </p>
 
